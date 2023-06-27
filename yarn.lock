@@ -4963,10 +4963,10 @@ expo-barcode-scanner@~12.3.2:
   dependencies:
     expo-image-loader "~4.1.0"
 
-expo-cli@^6.3.8:
-  version "6.3.8"
-  resolved "https://registry.yarnpkg.com/expo-cli/-/expo-cli-6.3.8.tgz#970c6e518b03c7f3c31bb48f4596f7be833a131a"
-  integrity sha512-kfgvqXaqD0jWN4Ab4pRVpt7RAky/76pXugi/XGGs6aQ8nFIgSWHPw2TYW5gz8hvCaCFV9xt5yd86/ulUXhk3Mg==
+expo-cli@^6.3.9:
+  version "6.3.9"
+  resolved "https://registry.yarnpkg.com/expo-cli/-/expo-cli-6.3.9.tgz#a2106e5bd112a38028d7fa44654940843f8891e6"
+  integrity sha512-g4Pp0u94c165mCBGNn3yJNj9ja4XPLOhN6+ARhmdR8q2rpIDJeDmPzcd53Hxz4EPygtf9a45ImG2755ircguQw==
   dependencies:
     "@babel/runtime" "7.9.0"
     "@expo/apple-utils" "1.0.0"
@@ -5023,7 +5023,7 @@ expo-cli@^6.3.8:
     url-join "4.0.0"
     uuid "^8.0.0"
     wrap-ansi "^7.0.0"
-    xdl "60.0.9"
+    xdl "60.0.10"
 
 expo-constants@~14.2.0, expo-constants@~14.2.1:
   version "14.2.1"
@@ -10905,10 +10905,10 @@ xcode@^3.0.1:
     simple-plist "^1.1.0"
     uuid "^7.0.3"
 
-xdl@60.0.9:
-  version "60.0.9"
-  resolved "https://registry.yarnpkg.com/xdl/-/xdl-60.0.9.tgz#556147d83a8948065318626224a1856e2a964d59"
-  integrity sha512-pM9UCwv53KLcN6CK3cf+GSUwrLsO8X9aatucLAQ9YelyWRj7BSgcayG51QNlr5eFJOdtTH7mOhZBgbj7rFEVqg==
+xdl@60.0.10:
+  version "60.0.10"
+  resolved "https://registry.yarnpkg.com/xdl/-/xdl-60.0.10.tgz#6b27333dfa2c85869931843ebc3384c8e5c6bc4f"
+  integrity sha512-KghrOEEEz6TOd2oTG28aP/rqsjCzVBttbY+le02KZr8xySxlxX0ssUCMyTzxcKaAIXOPFxyP6zFAs2V70E2xYg==
   dependencies:
     "@expo/bunyan" "4.0.0"
     "@expo/config" "6.0.24"
